@@ -1,0 +1,15 @@
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app.csprojResolveAssemblyReference.cache
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\App.g.cs
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app_MarkupCompile.cache
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\bin\Debug\test_WPF_app.exe.config
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\bin\Debug\test_WPF_app.exe
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\bin\Debug\test_WPF_app.pdb
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\MainWindow.g.cs
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app_MarkupCompile.lref
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\MainWindow.baml
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app.g.resources
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app.Properties.Resources.resources
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app.csproj.GenerateResource.Cache
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app.exe
+C:\Users\Desktop\Desktop\test_WPF_app\test_WPF_app\obj\Debug\test_WPF_app.pdb
